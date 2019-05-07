@@ -1,11 +1,11 @@
 # Unit 14 | Assignment - JavaScript and DOM Manipulation
-* Created a Javascript to write code that will create a table dynamically based upon a dataset. We also need to allow our users to search through the table for specific pieces of information. There's a catch though... We only use pure JavaScript, HTML, and CSS on our web pages. They are the only coding languages which can be trusted.
+* Created a Javascript to write code that will create a table dynamically based upon a dataset. We also need to allow our users to search through the table for specific pieces of information. There's a catch though... We only use pure JavaScript, HTML, and CSS on our web pages.
 
 ## Your Task
 
 ### Level 1: Automatic Table and Date Search
 
-* Create a basic HTML web page or use the [index.html](StarterCode/index.html) file provided (we recommend building your own custom page!).
+* Create a basic HTML web page or use the [index.html](StarterCode/index.html) file provided.
 
 * Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
 
